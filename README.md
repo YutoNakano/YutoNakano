@@ -2,10 +2,10 @@
 
 Engineer who thinks in systems. Designer who ships in code.
 
-I build products at the intersection of engineering, design, and growth. I own the full product lifecycle.
+I own the full product lifecycle. I build products at the intersection of engineering, design, and growth.
 
-Currently building [DRAWER](https://drawer-app.com/) — an AI language journal with 55K+ users.
+Co-founder at TORICO Inc. Currently building [DRAWER](https://drawer-app.com/en/lp) — an AI language journal with 100K+ downloads.
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/yuto-nakano44) · [drawer-app.com](https://drawer-app.com/) · [@yuto_nakano44](https://x.com/yuto_nakano44)
+[LinkedIn](https://www.linkedin.com/in/yuto-nakano44) · [@yuto_nakano44](https://x.com/yuto_nakano44)
