@@ -18,7 +18,7 @@ An AI-powered journaling app for language learners. Write about your day, get in
 **[Shunsaku — Flashcards for Language Output](https://apps.apple.com/us/developer/yuto-nakano/id1448624818)**
 
 3-minute daily language speaking practice.
-App Store #152 in Education
+App Store #89 in Education (Japan)
 
 <img src="images/shunsaku-screenshots.png" width="600">
 
